@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Cocosoys atelier mark</title>
+  <desc id="desc">A restrained creator atelier mark with code brackets and a sakura accent.</desc>
+  <rect width="240" height="240" rx="36" fill="#fff7ec"/>
+  <path d="M44 54h152c13.3 0 24 10.7 24 24v84c0 13.3-10.7 24-24 24H44c-13.3 0-24-10.7-24-24V78c0-13.3 10.7-24 24-24Z" fill="#2f2a3b"/>
+  <path d="M72 103 50 120l22 17" fill="none" stroke="#f7d6df" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m168 103 22 17-22 17" fill="none" stroke="#bfe4da" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m132 88-24 64" fill="none" stroke="#ffd58a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="120" cy="120" r="18" fill="#fff7ec"/>
+  <path d="M120 84c7 9 7 18 0 27-7-9-7-18 0-27Zm0 45c7 9 7 18 0 27-7-9-7-18 0-27Zm-36-9c9-7 18-7 27 0-9 7-18 7-27 0Zm45 0c9-7 18-7 27 0-9 7-18 7-27 0Z" fill="#e9899f"/>
+</svg>

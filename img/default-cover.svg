@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Cocosoys project cover</title>
+  <desc id="desc">A warm creator-workshop cover with restrained ACG-inspired accents.</desc>
+  <rect width="1200" height="640" fill="#fbf7f0"/>
+  <path d="M0 520h1200v120H0z" fill="#efe7dc"/>
+  <path d="M132 140h936c31 0 56 25 56 56v260c0 31-25 56-56 56H132c-31 0-56-25-56-56V196c0-31 25-56 56-56Z" fill="#2f2a3b"/>
+  <path d="M164 214h872" stroke="#fff7ec" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <path d="M164 280h420" stroke="#f7d6df" stroke-width="22" stroke-linecap="round"/>
+  <path d="M164 342h620" stroke="#bfe4da" stroke-width="22" stroke-linecap="round"/>
+  <path d="M164 404h500" stroke="#ffd58a" stroke-width="22" stroke-linecap="round"/>
+  <path d="M928 260 860 320l68 60" fill="none" stroke="#f7d6df" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m998 260 68 60-68 60" fill="none" stroke="#bfe4da" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="960" cy="128" r="24" fill="#e9899f"/>
+  <circle cx="1020" cy="96" r="14" fill="#7cc7b1"/>
+  <circle cx="190" cy="526" r="18" fill="#ffd58a"/>
+</svg>
